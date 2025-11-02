@@ -88,7 +88,7 @@ Through this project, I learned how to:
 - `Quick Fix Solutions Dashboard.xlsx` — Interactive Excel dashboard  
 - `README.md` — Project documentation  
 - `Images/` — Screenshots of the dashboard visuals  
-
+- `Quickfix DB` - Dataset
 ---
 
 ## 🏁 Conclusion
