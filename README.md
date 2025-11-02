@@ -87,7 +87,8 @@ Through this project, I learned how to:
 ## 📂 Files Included
 - `Quick Fix Solutions Dashboard.xlsx` — Interactive Excel dashboard  
 - `README.md` — Project documentation  
-- `Images/` — Screenshots of the dashboard visuals  
+- `Customer&Product.png` — Screenshot of Customer and product details page
+- `Profit.png` - Screenshot of the profit details page  
 - `Quickfix DB` - Dataset
 ---
 
