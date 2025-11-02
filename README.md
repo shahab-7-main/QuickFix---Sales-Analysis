@@ -101,5 +101,4 @@ By turning complex datasets into clear, interactive visualizations, it enables f
 
  
 #### <a href='https://github.com/shahab-7-main/QuickFix---Sales-Analysis/blob/main/Proftit.png'>Product and Customer View<a>
-#### **Time Analysis View**
-![Time Analysis Dashboard](Images/dashboard2.png)
+#### <a href = 'https://github.com/shahab-7-main/QuickFix---Sales-Analysis/blob/main/Proftit.png'>Time Analysis View<a>
